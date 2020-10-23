@@ -1,0 +1,19 @@
+{
+  "name": "testjavascript",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "dependencies": {
+    "got": "^11.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.sec.samsung.net/jiho87-shin/testJavascript.git"
+  },
+  "author": "jiho87.shin",
+  "license": "ISC"
+}
